@@ -1,2 +1,2 @@
 # graphql_chrash_course
-Graphql course width node and express mongoDB
+Graphql course with node and express mongoDB
